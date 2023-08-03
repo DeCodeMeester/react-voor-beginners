@@ -1,8 +1,6 @@
 # React voor Beginners
 ## Huiswerk voor les 3
 
----
-
 1. Installeer en run deze applicatie via de terminal (zie les 2)
 2. Plaats het "Greeting" component waar dit aangegeven wordt
 3. Geef je naam mee als property aan het component
