@@ -1,13 +1,11 @@
 import { createElement } from 'react';
 
-function Greeting({ name }) {
-  const parsedName = name || '<vul naam in>';
-
+function Greeting({ name = '<vul naam in>' }) {
   return (
     createElement(
       'p',
       {},
-      ['Hallo', parsedName, 'en welkom bij React voor Beginners'].join(' ')
+      ['Hallo', name, 'en welkom bij React voor Beginners'].join(' ')
     )
   );
 }
