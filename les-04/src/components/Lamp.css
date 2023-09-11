@@ -1,0 +1,40 @@
+.Lamp {
+    position: relative;
+    display: flex;
+    width: 100px;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Lamp > img {
+    display: block;
+    width: 100px;
+    height: 100px;
+}
+
+.LampLight {
+    width: 0;
+    height: 0;
+    border-radius: 50%;
+    box-shadow: 0 0 50px 40px #ffdb00;
+    position: absolute;
+    left: 50%;
+    top: 50px;
+}
+
+.LampSwitch {
+    border: 0;
+    padding: 0;
+    margin: 1em 0 0 0;
+    display: block;
+    width: 80px;
+}
+
+.LampSwitch img {
+    display: block;
+    width: 100%;
+}
+
+.LampSwitch--on img {
+    transform: rotate(180deg);
+}

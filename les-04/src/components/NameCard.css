@@ -1,0 +1,24 @@
+.NameCard {
+    background: white;
+    color: black;
+    padding: 1em 2em;
+    display: inline-block;
+}
+
+.NameCard h2, .NameCard p {
+    margin: 0;
+}
+
+.NameCard p {
+    font-size: 1.2em;
+    margin-bottom: 0.5em;
+}
+
+.NameCard table {
+    border-collapse: collapse;
+}
+
+.NameCard tr td {
+    border-bottom: 1px solid black;
+    padding-right: 10px;
+}
