@@ -1,0 +1,402 @@
+[
+  {
+    "available": true,
+    "caseNumber": "1920830230127",
+    "gender": "male",
+    "born": "2019-11-18",
+    "sheltered": "2022-10-29",
+    "name": "Joshua"
+  },
+  {
+    "available": false,
+    "caseNumber": "1460949348180",
+    "gender": "male",
+    "born": "2017-07-10",
+    "sheltered": "2022-10-10",
+    "name": "Ruben"
+  },
+  {
+    "available": true,
+    "caseNumber": "6410022706776",
+    "gender": "male",
+    "born": "2021-08-14",
+    "sheltered": "2023-08-20",
+    "name": "Connor"
+  },
+  {
+    "available": false,
+    "caseNumber": "5771368536801",
+    "gender": "female",
+    "born": "2018-07-03",
+    "sheltered": "2023-01-24",
+    "name": "Andrea"
+  },
+  {
+    "available": false,
+    "caseNumber": "3830324628409",
+    "gender": "male",
+    "born": "2019-02-20",
+    "sheltered": "2023-04-22",
+    "name": "Matthew"
+  },
+  {
+    "available": true,
+    "caseNumber": "2567139447239",
+    "gender": "female",
+    "born": "2021-08-14",
+    "sheltered": "2022-12-02",
+    "name": "Lucy"
+  },
+  {
+    "available": false,
+    "caseNumber": "4271501906870",
+    "gender": "male",
+    "born": "2019-12-14",
+    "sheltered": "2023-08-11",
+    "name": "Jeffrey"
+  },
+  {
+    "available": false,
+    "caseNumber": "8480215128461",
+    "gender": "female",
+    "born": "2023-04-01",
+    "sheltered": "2023-08-13",
+    "name": "Anna"
+  },
+  {
+    "available": true,
+    "caseNumber": "7402308020163",
+    "gender": "male",
+    "born": "2020-06-03",
+    "sheltered": "2022-09-19",
+    "name": "Miguel"
+  },
+  {
+    "available": true,
+    "caseNumber": "7560501717546",
+    "gender": "male",
+    "born": "2018-02-06",
+    "sheltered": "2023-04-12",
+    "name": "Timothy"
+  },
+  {
+    "available": true,
+    "caseNumber": "4707445022241",
+    "gender": "male",
+    "born": "2021-08-24",
+    "sheltered": "2022-11-08",
+    "name": "Sean"
+  },
+  {
+    "available": false,
+    "caseNumber": "1199965859675",
+    "gender": "female",
+    "born": "2021-01-27",
+    "sheltered": "2023-04-30",
+    "name": "Samantha"
+  },
+  {
+    "available": true,
+    "caseNumber": "3776881449166",
+    "gender": "female",
+    "born": "2018-01-01",
+    "sheltered": "2023-05-21",
+    "name": "Karina"
+  },
+  {
+    "available": true,
+    "caseNumber": "5653132175853",
+    "gender": "female",
+    "born": "2020-03-22",
+    "sheltered": "2023-07-29",
+    "name": "Misty"
+  },
+  {
+    "available": true,
+    "caseNumber": "6650149515428",
+    "gender": "female",
+    "born": "2019-12-05",
+    "sheltered": "2022-11-01",
+    "name": "Karen"
+  },
+  {
+    "available": false,
+    "caseNumber": "6910522349690",
+    "gender": "female",
+    "born": "2014-01-20",
+    "sheltered": "2023-01-29",
+    "name": "Elizabeth"
+  },
+  {
+    "available": true,
+    "caseNumber": "3529587462355",
+    "gender": "male",
+    "born": "2018-07-14",
+    "sheltered": "2022-11-02",
+    "name": "Matthew"
+  },
+  {
+    "available": false,
+    "caseNumber": "8808225667174",
+    "gender": "female",
+    "born": "2016-09-10",
+    "sheltered": "2023-06-20",
+    "name": "Christy"
+  },
+  {
+    "available": true,
+    "caseNumber": "7261672165661",
+    "gender": "male",
+    "born": "2017-03-04",
+    "sheltered": "2023-06-24",
+    "name": "Michael"
+  },
+  {
+    "available": true,
+    "caseNumber": "5017605548276",
+    "gender": "female",
+    "born": "2022-01-01",
+    "sheltered": "2023-05-08",
+    "name": "Mary"
+  },
+  {
+    "available": true,
+    "caseNumber": "6391755827986",
+    "gender": "female",
+    "born": "2020-06-16",
+    "sheltered": "2023-08-18",
+    "name": "Jennifer"
+  },
+  {
+    "available": false,
+    "caseNumber": "8611571846403",
+    "gender": "female",
+    "born": "2018-08-12",
+    "sheltered": "2023-06-03",
+    "name": "Olivia"
+  },
+  {
+    "available": false,
+    "caseNumber": "9768897011806",
+    "gender": "male",
+    "born": "2018-12-28",
+    "sheltered": "2023-01-23",
+    "name": "Katrina"
+  },
+  {
+    "available": false,
+    "caseNumber": "9935460800635",
+    "gender": "female",
+    "born": "2020-11-15",
+    "sheltered": "2023-03-28",
+    "name": "Crystal"
+  },
+  {
+    "available": true,
+    "caseNumber": "1072033362058",
+    "gender": "male",
+    "born": "2018-05-11",
+    "sheltered": "2023-02-25",
+    "name": "Christopher"
+  },
+  {
+    "available": true,
+    "caseNumber": "0631913806009",
+    "gender": "female",
+    "born": "2018-10-09",
+    "sheltered": "2022-12-25",
+    "name": "Ebony"
+  },
+  {
+    "available": false,
+    "caseNumber": "0643084214729",
+    "gender": "male",
+    "born": "2019-07-25",
+    "sheltered": "2023-04-23",
+    "name": "Maxwell"
+  },
+  {
+    "available": true,
+    "caseNumber": "9677718794418",
+    "gender": "male",
+    "born": "2019-08-02",
+    "sheltered": "2022-12-10",
+    "name": "Benjamin"
+  },
+  {
+    "available": false,
+    "caseNumber": "1280540906546",
+    "gender": "female",
+    "born": "2022-05-02",
+    "sheltered": "2023-07-03",
+    "name": "Alexandra"
+  },
+  {
+    "available": true,
+    "caseNumber": "3496533621213",
+    "gender": "female",
+    "born": "2020-06-28",
+    "sheltered": "2023-04-21",
+    "name": "Carrie"
+  },
+  {
+    "available": false,
+    "caseNumber": "9350167647183",
+    "gender": "male",
+    "born": "2019-04-04",
+    "sheltered": "2023-01-27",
+    "name": "Manuel"
+  },
+  {
+    "available": true,
+    "caseNumber": "5947372186947",
+    "gender": "female",
+    "born": "2019-12-12",
+    "sheltered": "2023-08-08",
+    "name": "Diana"
+  },
+  {
+    "available": true,
+    "caseNumber": "1511134821274",
+    "gender": "male",
+    "born": "2021-01-11",
+    "sheltered": "2023-02-21",
+    "name": "Thomas"
+  },
+  {
+    "available": false,
+    "caseNumber": "3524679233547",
+    "gender": "male",
+    "born": "2021-10-18",
+    "sheltered": "2023-05-06",
+    "name": "Michael"
+  },
+  {
+    "available": false,
+    "caseNumber": "6576543865511",
+    "gender": "male",
+    "born": "2018-12-04",
+    "sheltered": "2022-10-21",
+    "name": "Walter"
+  },
+  {
+    "available": true,
+    "caseNumber": "5919071403458",
+    "gender": "male",
+    "born": "2020-02-11",
+    "sheltered": "2023-06-10",
+    "name": "William"
+  },
+  {
+    "available": false,
+    "caseNumber": "9450925041250",
+    "gender": "male",
+    "born": "2023-06-21",
+    "sheltered": "2023-09-09",
+    "name": "James"
+  },
+  {
+    "available": false,
+    "caseNumber": "7717924167186",
+    "gender": "female",
+    "born": "2019-02-19",
+    "sheltered": "2023-05-11",
+    "name": "Abigail"
+  },
+  {
+    "available": false,
+    "caseNumber": "1350093476237",
+    "gender": "male",
+    "born": "2019-11-04",
+    "sheltered": "2023-03-13",
+    "name": "James"
+  },
+  {
+    "available": false,
+    "caseNumber": "9304343617118",
+    "gender": "male",
+    "born": "2021-12-22",
+    "sheltered": "2023-07-12",
+    "name": "Mike"
+  },
+  {
+    "available": true,
+    "caseNumber": "7495428546798",
+    "gender": "male",
+    "born": "2020-05-30",
+    "sheltered": "2023-06-12",
+    "name": "Reginald"
+  },
+  {
+    "available": false,
+    "caseNumber": "2318649347744",
+    "gender": "female",
+    "born": "2021-11-02",
+    "sheltered": "2023-07-07",
+    "name": "Kimberly"
+  },
+  {
+    "available": true,
+    "caseNumber": "5600377868880",
+    "gender": "male",
+    "born": "2021-06-29",
+    "sheltered": "2023-08-21",
+    "name": "James"
+  },
+  {
+    "available": true,
+    "caseNumber": "0508506519397",
+    "gender": "female",
+    "born": "2018-01-06",
+    "sheltered": "2023-03-19",
+    "name": "Carol"
+  },
+  {
+    "available": true,
+    "caseNumber": "8717694143174",
+    "gender": "male",
+    "born": "2018-07-22",
+    "sheltered": "2022-12-16",
+    "name": "Jamie"
+  },
+  {
+    "available": true,
+    "caseNumber": "2868410604113",
+    "gender": "male",
+    "born": "2019-01-28",
+    "sheltered": "2023-05-12",
+    "name": "Billy"
+  },
+  {
+    "available": false,
+    "caseNumber": "9526031448860",
+    "gender": "male",
+    "born": "2019-07-02",
+    "sheltered": "2023-03-08",
+    "name": "Emanuel"
+  },
+  {
+    "available": false,
+    "caseNumber": "8678930730544",
+    "gender": "male",
+    "born": "2021-02-10",
+    "sheltered": "2023-08-02",
+    "name": "Steven"
+  },
+  {
+    "available": false,
+    "caseNumber": "1327500868671",
+    "gender": "female",
+    "born": "2023-01-08",
+    "sheltered": "2023-08-26",
+    "name": "Rachel"
+  },
+  {
+    "available": true,
+    "caseNumber": "3039137322560",
+    "gender": "male",
+    "born": "2018-07-23",
+    "sheltered": "2023-02-15",
+    "name": "Joseph"
+  }
+]
