@@ -1,8 +1,7 @@
-# React + Vite
+# React voor Beginners
+## Huiswerk voor les 9
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. In de `./les-09` map vind je in `./src/oefeningen` bestanden met oefeningen.
+2. Maak deze oefeningen zoals beschreven in de bestanden.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Lever het huiswerk in door een `.zip` bestand te sturen van de `src` map.
