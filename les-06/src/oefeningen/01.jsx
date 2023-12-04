@@ -1,10 +1,11 @@
 /***
  Oefening 1:
 
- 1. Maak een component dat props ontvangt met de informatie uit `user`
- 2. Plaats de waardes ergens in je component
- 3. Gebruik destructuring om je props uit te lezen
- 4. import en render dit component in `./src/App.jsx`
+ 1. Maak een nieuw component `<User />` dat props ontvangt met de informatie uit `user` (regel 12)
+ 2. Denk bijvoorbeeld aan een component want een naamkaartje voor een `user` is
+ 3. Plaats de waardes van `user` ergens in je component
+ 4. Gebruik destructuring om je props uit te lezen
+ 5. import en render dit component in `./src/App.jsx`
  ***/
 
 function Oefening01() {
