@@ -45,7 +45,7 @@ function mapCat(cat: typeof cats[0]): Cat {
   return {
     ...cat,
     gender: cat.gender === 'male' || cat.gender === 'female' ? cat.gender : 'male',
-    image: `https://placekitten.com/${w}/${w}`,
+    image: `https://placecats.com/${w}/${w}`,
   };
 }
 
